@@ -1,0 +1,5 @@
+Author: Ellison Schilling
+Date: June 1st 2023
+Description: A binary search tree using C++ classes and composition and a simple database that 
+keeps track of student information using inheritance. Can be combined to organzie information from database
+according to various factors such as age of students. 
